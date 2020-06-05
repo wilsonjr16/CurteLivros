@@ -1,12 +1,12 @@
 ## Todo
-- [x] ~~Make circle grow on Android more smooth~~
-- [x] ~~Add animation on press back~~  
-- [x]  ~~Add back button~~  
-- [x]  ~~Fix circleGrow on Android~~  
-- [x]  ~~Animated API~~  
-- [x]  ~~Navigator (react-native-router-flux)~~
+- [x] ~~Faça o círculo crescer no Android mais suave~~
+- [x] ~~Adicionar animação ao voltar~~  
+- [x]  ~~Adicionar botão voltar~~  
+- [x]  ~~Corrigir circleGrow no Android~~  
+- [x]  ~~API animada~~  
+- [x]  ~~Navegador (react-native-router-flux)~~
 
-## Install at local
+## Instale no local
 
 Abra o Terminal e digite o comando: 
 > git clone https://github.com/dwicao/react-native-login-screen.git
@@ -40,12 +40,12 @@ Se você tiver uma mensagem de erro como `Execution failed for task ':app:dexDeb
 Para criar o arquivo .apk, digite :  
 > npm run android-release  
 
-You must sign .apk with keystore, to do this just type in your terminal :  
+Você deve assinar .apk com keystore, para isso basta digitar seu terminal :  
 > npm run android-signer
 
 O arquivo .apk está localizado em `react-native-login-screen/android/app/build/outputs/apk/app-release-unsigned.apk`
 
-##  Available Command  
+##  Comando disponível  
 
 | npm run ... | Description |
 | --- | --- |
@@ -61,7 +61,4 @@ O arquivo .apk está localizado em `react-native-login-screen/android/app/build/
 | android-dev | Run android development-mode on simulator |
 | android-bundle | Bundle with entry file index.android.js |
  
-
-## License
-MIT
 

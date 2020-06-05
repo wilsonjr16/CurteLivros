@@ -9,7 +9,7 @@
 ## Instale no local
 
 Abra o Terminal e digite o comando: 
-> git clone https://github.com/dwicao/react-native-login-screen.git
+> git clone https://github.com/wilsonjr16/CurteLivros.git
 
 
 Vá para a pasta do projeto:
